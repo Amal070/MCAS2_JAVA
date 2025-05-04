@@ -23,6 +23,7 @@ t3.setBounds(200,180,100,20);
 b1.setBounds(50,250,50,20); 
 b2.setBounds(110,250,50,20); 
 b3.setBounds(170,258,50,20); 
+  //
 b4.setBounds(230,250,50,20); 
 b5.setBounds(290,250,50,20); 
 f.add(l1); 
